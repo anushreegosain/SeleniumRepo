@@ -1,2 +1,2 @@
 # SeleniumRepo
-My First selenium repository
+My selenium automation repository
